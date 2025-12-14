@@ -1,0 +1,7 @@
+{
+  "name": "Proxicall",
+  "description": "Real-time proximity alerts for your contacts. Get notified when friends are within 5km and coordinate meetups instantly using AI assistance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
